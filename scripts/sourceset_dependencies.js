@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":brdge-3d-secure:dokkaHtmlPartial/debug":[],":brdge-3d-secure:dokkaHtmlPartial/main":[],":brdge-3d-secure:dokkaHtmlPartial/release":[],":brdge-api:dokkaHtmlPartial/debug":[],":brdge-api:dokkaHtmlPartial/main":[],":brdge-api:dokkaHtmlPartial/release":[]}'

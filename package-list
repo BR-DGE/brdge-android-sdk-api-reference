@@ -1,0 +1,12 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:Brdge3DSecure
+to.br_dge.android.brdge_3d_secure
+module:BrdgeAPI
+to.br_dge.android.brdge_api
+to.br_dge.android.brdge_api.errors
+to.br_dge.android.brdge_api.errors.validation
+to.br_dge.android.brdge_api.models
+to.br_dge.android.brdge_api.modules
+to.br_dge.android.brdge_api.responses
